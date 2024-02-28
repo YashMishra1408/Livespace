@@ -1,0 +1,77 @@
+{
+  "users": [
+    {
+      "id": "82dc",
+      "fullname": "Yash",
+      "lastname": "Mishra",
+      "username": "yash@123",
+      "password": "123",
+      "email": "yashmishra1403@gmail.com",
+      "mobile": "83294985"
+    },
+    {
+      "id": "32fc",
+      "username": "singh@gaurav",
+      "password": "12345",
+      "fullname": "Gaurav",
+      "lastname": "Singh",
+      "email": "singh@gmail.com",
+      "mobile": "94875373793",
+      "usertype": "owner"
+    },
+    {
+      "id": "37ed",
+      "username": "mishra@yash",
+      "password": "12345",
+      "fullname": "Yash",
+      "lastname": "Mishra",
+      "email": "mishra@gmail.com",
+      "mobile": "94875373793",
+      "usertype": "user"
+    }
+  ],
+  "property": [
+    {
+      "id": "6cdf",
+      "property_name": "asdf",
+      "property_price": "32",
+      "property_address": "sdaf"
+    },
+    {
+      "id": "0d76",
+      "property_name": "Mishra homes",
+      "property_price": "3000000",
+      "property_address": "Hamirpur chungi"
+    },
+    {
+      "id": "bbaa",
+      "property_name": "Prasukh Home",
+      "property_price": "10000000",
+      "property_address": "Civil Lines,Bijnor"
+    },
+    {
+      "id": "8aae",
+      "property_name": "Happy Homes",
+      "property_price": "40000000",
+      "property_address": "Gachhibowli Hyderabad"
+    },
+    {
+      "id": "a489",
+      "property_name": "Sweet Homes",
+      "property_price": "20000000",
+      "property_address": "Raidurg"
+    },
+    {
+      "id": "5fd6",
+      "property_name": "Shan Property",
+      "property_price": "400000",
+      "property_address": "Hyderabad"
+    },
+    {
+      "id": "0594",
+      "property_name": "Shan Property",
+      "property_price": "400000",
+      "property_address": "Hyderabad"
+    }
+  ]
+}

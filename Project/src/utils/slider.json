@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Vardhan Residency",
+    "price": "47,043",
+    "detail": "ABHP Colony Gacchibowli,Hyderabad",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Kanha Residency",
+    "price": "66,353",
+    "detail": "Pahlawan Street 210427 Govindpuri West,Delhi",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Happy Homes",
+    "price": "35,853",
+    "detail": "Gandhi nagar,Hamirpur Chungi,Mumbai",
+    "image": "./r3.png"
+  },
+  {
+    "name": "West Inn",
+    "price": "47,043",
+    "detail": "Dwarka,Sector 62,South Extension,Delhi",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Heritage Villa",
+    "price": "66,353",
+    "detail": "Barra 5,Beside JP Temple,Kanpur",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Royal Residency",
+    "price": "35,853",
+    "detail": "Janakpuri,Godavari west,Noida",
+    "image": "./r3.png"
+  }
+]

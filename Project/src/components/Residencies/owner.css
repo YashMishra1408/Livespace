@@ -1,0 +1,61 @@
+.add_property{
+    margin-top: 30px;
+    text-align: center;
+    font-weight: 900;
+    font-size: 1.2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+.owner_form{
+    /* border: 1px solid black; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+    padding-left: 150px;
+    padding: 20px 0 20px 0;
+    gap: 10px;
+
+}
+.wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 300px 0 300px;
+}
+.btn_owner{
+    width: 100px;
+    margin-left: 50%;
+
+}
+.prop_details{
+    margin-top: 40px;
+    text-align: center;
+    font-weight: 900;
+    font-size: 1.2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 40px;
+}
+.card{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 40px;
+    flex-wrap: wrap;
+    /* border: 1px solid black; */
+}
+.card_border{
+    height: 200px;
+    width: 254px;
+    border: 1px solid black;
+    border-radius: 9px;
+}
+.card_border img{
+    height: 100px;
+    width: 252px;
+}
+.property_name{
+    font-size: 1rem;
+    font-weight: 600;
+    color: red;
+}
